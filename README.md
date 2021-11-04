@@ -2,7 +2,7 @@
 
 # Topic 1: Machine Learning Packages in R and Python
 
-A simple project todemonstrate initial proficiency with the programming tools required for Python and implementing foundational machine learning algorithms.
+A simple project to demonstrate my proficiency with the programming tools required for Python and implementing foundational machine learning algorithms.
 
 ## Getting Started
 
